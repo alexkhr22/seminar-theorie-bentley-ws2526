@@ -1,0 +1,3 @@
+https://www.gm.th-koeln.de/~hk/lehre/ala/ws0607/Referate/C_gruen_LinienSchnittpunkte_closestPoints.pdf
+
+- behandelt Bentley algorithmus mit Beispielen. 

@@ -1,0 +1,4 @@
+https://www.cs.princeton.edu/~chazelle/pubs/IntersectLineSegments.pdf
+
+- Nachfolger vom Bently Algorithmus
+- Zeigt Bentley nicht optimal ist 

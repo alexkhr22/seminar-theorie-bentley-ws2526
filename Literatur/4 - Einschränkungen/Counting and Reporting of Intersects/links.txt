@@ -1,0 +1,4 @@
+https://ics-archive.science.uu.nl/research/techreps/repo/CS-1989/1989-12.pdf
+
+- führt Baumartiges Rekursionsschema auf Basis geometrischer Partitionen ein
+- O(n4/3+ε+k) -> Damit eine Zwischenstufe zwischen Bentley und optimalen Algorithmen

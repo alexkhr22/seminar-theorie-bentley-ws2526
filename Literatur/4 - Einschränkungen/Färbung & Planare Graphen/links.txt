@@ -1,0 +1,4 @@
+https://www.math.uni-hamburg.de/home/diestel/books/graph.theory/preview/Ch4.pdf
+https://www.math.uni-hamburg.de/home/diestel/books/graph.theory/preview/Ch5.pdf
+
+- Bezug zur Einschränkung durch planare und k-färbbare Graphen. 

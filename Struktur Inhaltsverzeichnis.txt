@@ -1,0 +1,38 @@
+1. Einleitung
+1.1 Motivation: Geometrische Schnittprobleme in der Informatik
+1.2 Ziel der Arbeit und Fragestellungen
+1.3 Aufbau der Arbeit
+
+2. Mathematische und theoretische Grundlagen
+2.1 Partielle und totale Ordnungen (Posets)
+2.2 Verbände und Hasse-Diagramme
+2.3 Asymptotische Laufzeitanalyse
+
+3. Geometrische Schnittprobleme
+3.1 Formulierung des Segment-Schnitt-Problems
+3.2 Naive Algorithmen und ihre Grenzen (O(n²))
+3.3 Anwendungen (Kurzüberblick)
+
+4. Der Shamos–Hoey-Algorithmus
+4.1 Idee der Sweep-Line-Technik
+4.2 Datenstrukturen und Ordnung der Segmente
+4.3 Laufzeitanalyse O(n log n) (nur Erkennung, kein Reporting)
+
+5. Der Bentley–Ottmann-Algorithmus
+5.1 Problem: Report aller Schnittpunkte
+5.2 Event-Menge (Endpunkte und Schnittpunkte)
+5.3 Sweep-Line-Status als totale Ordnung (Poset-Sicht)
+5.4 Pseudocode / Ablaufbeschreibung
+5.5 Laufzeitanalyse O((n + k) log n)
+
+6. Spezialisierungen und Verbesserungen
+6.1 Spezialfall: horizontale und vertikale Segmente 
+6.2 Weitere Verbesserungen: optimale Algorithmen O(n log n + k)
+6.3 Diskussion: Einfluss von Struktur (z. B. Beschränkungen, k im Verhältnis zu n)
+
+7. Fazit und Ausblick
+7.1 Zusammenfassung der wichtigsten Ergebnisse
+7.2 Grenzen des Bentley–Ottmann-Algorithmus
+7.3 Mögliche weiterführende Themen
+
+Literaturverzeichnis

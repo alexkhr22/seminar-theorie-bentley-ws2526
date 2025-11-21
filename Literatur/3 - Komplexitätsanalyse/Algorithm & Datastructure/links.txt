@@ -1,0 +1,3 @@
+https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf
+
+- formale Grundlage aller Datenstrukturen, die der Bentley Algorithmus nutzt

@@ -1,0 +1,3 @@
+https://pi.math.cornell.edu/~levine/18.312/alg-comb-lecture-7.pdf
+
+- Bentley basiert auf einer totalen Ordnung der Segmente entlang der Sweep-Line

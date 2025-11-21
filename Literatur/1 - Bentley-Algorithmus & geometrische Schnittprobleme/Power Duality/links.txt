@@ -1,0 +1,4 @@
+https://www.cs.princeton.edu/~chazelle/pubs/PowerDuality.pdf
+
+- erklärt geometrische Dualität
+- Dualität ermöglicht viele Sweep-Line- und Intersection-Probleme einfacher oder schneller zu behandeln

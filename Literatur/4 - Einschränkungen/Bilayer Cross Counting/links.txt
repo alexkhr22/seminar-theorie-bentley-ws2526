@@ -1,0 +1,4 @@
+https://kups.ub.uni-koeln.de/54863/1/zaik2002-433.pdf
+
+- Zeigt wie algorithmen schnller werden, wenn man geometrische Strukuturen durch graph-theoretische Constraints
+ersetzt

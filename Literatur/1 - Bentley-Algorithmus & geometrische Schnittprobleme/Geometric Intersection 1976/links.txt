@@ -1,0 +1,4 @@
+https://euro.ecom.cmu.edu/people/faculty/mshamos/1976GeometricIntersection.pdf
+
+- enthält ersten subquadratischen Algorithmus zum Zählen aller Segement schnitte
+- liefert bessere Reporting Laufzeit als Bentley Algorithmus 

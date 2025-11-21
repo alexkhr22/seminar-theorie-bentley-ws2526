@@ -1,0 +1,4 @@
+https://erickimphotography.com/blog/wp-content/uploads/2018/09/Computational-Geometry-Algorithms-and-Applications-3rd-Ed.pdf
+
+- erklärt Plane-Sweep-/Sweep-Line-Algorithmen allgemein und speziell für Line-Segment-Intersection
+- liefert die Datenstrukturen im Hintergrund (Balancierte Suchbäume, Interval Trees, Segment Trees, Priority Search Trees), die man für Event-Queue und Statusstruktur des Bentley-Algorithmus braucht.

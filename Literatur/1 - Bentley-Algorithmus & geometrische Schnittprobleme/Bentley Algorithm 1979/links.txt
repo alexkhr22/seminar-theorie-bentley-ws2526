@@ -1,0 +1,8 @@
+https://www.academia.edu/110227046/Algorithms_for_Reporting_and_Counting_Geometric_Intersections
+
+- I: Einleitung in das Thema 
+- II: Shamos Hoey Algorithmus, Vorstellung Bentley Algorithmus, Definition der Totalen Ordnung von Segmenenten, 
+Herleitung der Luafzeit 
+- III: Erklärung warum der Algorithmus fuinktioniert. 
+- IV Einschränkung auf Horizontale und Vertikale Segmente
+
